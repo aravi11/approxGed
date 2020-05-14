@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](logo2.png)
 
 
@@ -152,3 +153,6 @@ each code is associated with a reference to the original.**
   * Debug algorithms --> Random Walk Kernel, Deltacon
   * Optimize algorithms --> Vertex Ranking
 
+=======
+# approxGed
+>>>>>>> 2aa804a61fba8c3b5a9cde5ac2f63595f8f14842
